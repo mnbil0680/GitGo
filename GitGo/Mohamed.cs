@@ -9,5 +9,7 @@ namespace GitGo
     class Mohamed
     {
         public int age;
+        public string Name;
+
     }
 }
