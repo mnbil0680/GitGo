@@ -10,6 +10,7 @@ namespace GitGo
     {
         public int age;
         public string Name;
+        public string AbdelrahamanString;
 
     }
 }
